@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python_Web scraping _to_ CSV file.iml" filepath="$PROJECT_DIR$/.idea/Python_Web scraping _to_ CSV file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WebScraping_using_Python/.idea/WebScraping_of_Particular_WebSite_Content_using_Python.iml" filepath="$PROJECT_DIR$/../WebScraping_using_Python/.idea/WebScraping_of_Particular_WebSite_Content_using_Python.iml" />
+    </modules>
+  </component>
+</project>
