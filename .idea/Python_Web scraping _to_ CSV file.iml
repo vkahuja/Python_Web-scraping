@@ -7,5 +7,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="WebScraping_of_Particular_WebSite_Content_using_Python" />
+    <orderEntry type="module" module-name="Read_Write_Excel_Sheet" />
+    <orderEntry type="module" module-name="Browser_Automation_and_Web Scraping_with_Selenium_ Python" />
   </component>
 </module>
